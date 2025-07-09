@@ -261,7 +261,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
         </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="hhttps://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/Linux-Light.svg" alt="Linux" width="40" height="40"/>
         </a>
        <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/Kali-Dark.svg" alt="Kali" width="40" height="40"/>
