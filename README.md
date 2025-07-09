@@ -321,7 +321,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 
 ### Watch my Contribution Graph get Eaten by the Snake:
 <!-- platane/snk works, it just puts it on a new branch -->
-![Tech-Shreyansh snake gif](https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/github-snake.svg)
+![PROSEOBLOGGERS snake gif](https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/github-snake.svg)
 
 
 <!---
