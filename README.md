@@ -40,7 +40,7 @@
 <a href="https://t.me/ShineAds" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>
 <a href="https://www.whatsapp.com/channel/0029ValnXY3CXC3DgzAdXq21" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/icons8-whatsapp.png" alt="_rai_shreyansh_" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/PROSEOBLOGGERS/PROSEOBLOGGERS/blob/main/Images/icons8-whatsapp.png" alt="whatsapp" height="30" width="40" /></a>
 <a href="https://www.proseoblogger.com/feed" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/rss.svg" alt="https://PROSEOBLOGGERS.com/feed/" height="30" width="40" /></a>
 </p>
