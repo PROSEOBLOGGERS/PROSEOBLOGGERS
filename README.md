@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/hula_loop_octodex03.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PROSEOBLOGGERS&label=Profile%20views&color=0e75b6&style=flat" alt="PROSEOBLOGGERS" /> </p>
 
-<p align="left"> <a href="https://t.me/ShineAds_" target="blank"><img src="https://img.shields.io/twitter/follow/ShineAds?logo=twitter&style=for-the-badge" alt="_rai_shreyansh_" /></a> </p>
+<p align="left"> <a href="https://t.me/shineads_" target="blank"><img src="https://img.shields.io/twitter/follow/ShineAds?logo=twitter&style=for-the-badge" alt="_rai_shreyansh_" /></a> </p>
 
 - 🔭 I’m currently working as a **Web Designing**.
   
