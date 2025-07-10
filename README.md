@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/banner.png)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hii+There!+%F0%9F%91%8B;I'm++PRO+SEOBLOGGERS+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hii+There!+%F0%9F%91%8B;I'm++PRO+SEO+BLOGGER+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/hula_loop_octodex03.gif">
