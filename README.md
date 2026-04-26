@@ -271,10 +271,10 @@
 
 ### **📕 Latest Posts [@PROSEOBLOGGERS](https://www.proseoblogger.com/feed/)**
 <!-- BLOG-POST-LIST:START -->
+- [Lightweight Social Share Plugin for WordPress &lpar;Perfect for GeneratePress&rpar;](https://proseoblogger.com/lightweight-social-share-plugin/)
 - [An Honest Review of PokePlayz: Elevating Your Pokémon Team Building Experience](https://proseoblogger.com/review-of-pokeplayz/)
 - [Case Study: How I Built the Ultimate “Favorite Pokémon Picker” Web App](https://proseoblogger.com/case-study-favorite-pokemon-picker/)
 - [Animated Text Logo Plugin for WordPress &lpar;Works With Any Theme&rpar;](https://proseoblogger.com/psb-animated-text-logo-plugin/)
-- [Multiple Also Read Box Plugin For Your Beautiful Website &lpar;Plugin Method&rpar;](https://proseoblogger.com/multiple-also-read-box-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="150" height="150" src="https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
