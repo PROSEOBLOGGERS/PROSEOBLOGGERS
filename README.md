@@ -271,10 +271,10 @@
 
 ### **📕 Latest Posts [@PROSEOBLOGGERS](https://www.proseoblogger.com/feed/)**
 <!-- BLOG-POST-LIST:START -->
+- [I Replaced WPCode With My Own 3KB Header Footer Plugin &lpar;And You Should Too&rpar;](https://proseoblogger.com/lightweight-header-footer-plugin-wordpress/)
+- [How to Animate Your GeneratePress Site Title &lpar;Without Heavy Image Logos&rpar;](https://proseoblogger.com/animated-text-logo-generatepress-plugin/)
+- [How to Add an App-Like Sticky Mobile Bottom Bar in WordPress Website](https://proseoblogger.com/sticky-mobile-bottom-bar-wordpress-plugin/)
 - [How to Remove #more from URL in GeneratePress Theme &lpar;Using Plugin&rpar;](https://proseoblogger.com/remove-more-link-generatepress/)
-- [Lightweight Social Share Plugin for WordPress &lpar;Perfect for GeneratePress&rpar;](https://proseoblogger.com/lightweight-social-share-plugin/)
-- [An Honest Review of PokePlayz: Elevating Your Pokémon Team Building Experience](https://proseoblogger.com/review-of-pokeplayz/)
-- [Case Study: How I Built the Ultimate “Favorite Pokémon Picker” Web App](https://proseoblogger.com/case-study-favorite-pokemon-picker/)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="right" width="150" height="150" src="https://cdn.jsdelivr.net/gh/PROSEOBLOGGERS/PROSEOBLOGGERS@main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
